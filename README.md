@@ -10,9 +10,9 @@ by Sherice Sutcliffe
 
 ### Set Up Requirements ###
 
+* Up-To-Date Google Play Services
 * Internet/WiFi
-* iOS 8+
-* Location Services
+* 21+ API
 
 ### Contact ###
 
