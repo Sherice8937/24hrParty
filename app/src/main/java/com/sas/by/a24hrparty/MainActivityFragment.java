@@ -18,7 +18,7 @@ import com.sas.by.a24hrparty.databinding.ActivityMainBinding;
 public class MainActivityFragment extends Fragment {
 
     ActivityMainBinding mBinding;
-    String delete = "deletee";
+    String delete = "delete";
 
     public static MainActivityFragment newInstance() {
 
