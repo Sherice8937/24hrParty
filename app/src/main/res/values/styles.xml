@@ -11,7 +11,11 @@
     <style name="lightBlueButton" >
         <item name="android:textColor">@color/white</item>
         <item name="android:background">@color/lightBlue</item>
+    </style>
 
+    <style name="darkBlueButton" >
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@color/darkBlue</item>
     </style>
 
 </resources>
